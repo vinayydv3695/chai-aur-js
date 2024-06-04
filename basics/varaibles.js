@@ -10,3 +10,4 @@ console.log(accountID);
 console.table([accountID, accountpassword, accountcCity,accountState]); 
 console.log(accountEmail);
 
+// if you don,t assign any values to the any varaibles then ti will show undefined
