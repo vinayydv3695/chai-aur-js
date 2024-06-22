@@ -2,5 +2,5 @@
     console.log(typeof(salary));
     
        let promtion= Number(salary);
-           console.log(typeof(promtion)
+           console.log(typeof(promtion))
           console.log(promtion)
