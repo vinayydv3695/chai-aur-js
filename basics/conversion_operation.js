@@ -24,3 +24,4 @@ let zura = String(maxer);
 console.log(maxer);
 console.log(typeof(maxer));
 
+
