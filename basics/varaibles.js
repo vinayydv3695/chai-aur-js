@@ -1,4 +1,4 @@
-const accountID = 11243;
+const bka = "ni"
 let accountEmail = "kamisama@gmail.com";
 var accountpassword = "L8QLYCQCP";
  accountcCity = "EDO"; 
@@ -8,6 +8,6 @@ var accountpassword = "L8QLYCQCP";
 // never use var for declaring varaibles always use let be ause var used in acnient times .
 console.log(accountID); 
 console.table([accountID, accountpassword, accountcCity,accountState]); 
-console.log(accountEmail);
+console.log(accountEmailgr
 
 // if you don,t assign any values to the any varaibles then ti will show undefined
