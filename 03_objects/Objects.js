@@ -6,12 +6,12 @@
 const mySym = Symbol("key1");
 
 const JsUser = {
-  name: "Hitesh",
-  "full name": "Hitesh Choudhary",
+  name: "VInay ",
+  "full name": "Vinay yadav",
   [mySym]: "mykey1",
   age: 18,
-  location: "Jaipur",
-  email: "hitesh@google.com",
+  location: "gurugram",
+  email: "cornhub@google.com",
   isLoggedIn: false,
   lastLoginDays: ["Monday", "Saturday"],
 };
